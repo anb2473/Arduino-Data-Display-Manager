@@ -10,6 +10,7 @@ Please go to our releases section to learn how to install the most recent versio
 
 ### How to use
 
+* Download the Arduino IDE, open up the CoralTank.ino file in the IDE, and upload the file to your arduino.
 * Type in the COM port of your arduino if your arduino is connected by a physical cable in the port section. (i.e., COM9)
 * Type in the baud rate of your arduino in the baud section. (Unless altered, this will always be 9600)
 * Then press the enter key, and you will connect to that arduino.
