@@ -2,7 +2,7 @@
 
 A system to collect and display data from an Arduino system.
 
-**NOTICE:** This system was created solely by Austin Nabil Blass for the Norwood School Green Hawks team.
+**NOTICE:** This system was created solely by Austin Nabil Blass for the Norwood School Green Hawks team. (The website for the team can be found at https://gmo-coral-reefs.netlify.app/, this website has been made entirely bu Austin Nabil Blass)
 
 ### Installation
 
