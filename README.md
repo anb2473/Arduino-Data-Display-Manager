@@ -21,6 +21,8 @@ Please go to our releases section to learn how to install the most recent versio
 * Once your server is running, it will ask you to fill our information on the baud rate and COM port of your arduino, and port the server will run on.
 * The server will print out an IP address, which you can put in the baud section of the application, and you can put the port you entered in your server in the port section.
 * From there you will be able to remotely see all data.
+* Press the `V` at the top of the window to switch between the CSV visualizer. This will allow you to search through the existing CSV files, and see all recorded data. In the visualizer you will be able to see the raw CSV data, and a graph of all of the data.
+* You can also edit the `run.json` file to change the application configurations. 
   
 **NOTICE:** If you want to conenct to a server on a seperate router, you will need to do a little more configuring. You will need to use your routers admin password to set a port to your servers IP that you saw when you executed the server. From there, get your routers public IP. (Simply search `what is my public IP`) Enter that public IP in the app, and the port you set in your router configurations.
 
