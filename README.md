@@ -1,3 +1,5 @@
+This project is no longer being maintained.
+
 # Arduino-Data-Display-Manager
 
 A system to collect and display data from an Arduino system.
